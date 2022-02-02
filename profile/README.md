@@ -9,3 +9,19 @@
 🧙 Remember, you can do mighty things with the power of **decentralization**
 
 🍿 Fun facts - with Concorde airplane you could time travel to the past and see the same sunrise twice in a day :)
+
+---
+
+[![](https://img.shields.io/badge/Solidity-Dev-brightgreen.svg?logo=Solidity&logoColor=FFF)]() [![](https://img.shields.io/badge/Go-Dev-brightgreen.svg?logo=Go&logoColor=FFF)]() [![](https://img.shields.io/badge/C-Dev-brightgreen.svg?logo=C&logoColor=FFF)]() [![](https://img.shields.io/badge/Javascript-Dev-brightgreen.svg?logo=JavaScript&logoColor=FFF)]() [![](https://img.shields.io/badge/Typescript-Dev-brightgreen.svg?logo=TypeScript&logoColor=FFF)]() [![](https://img.shields.io/badge/Python-Dev-brightgreen.svg?logo=Python&logoColor=FFF)]() [![](https://img.shields.io/badge/Java-Dev-brightgreen.svg?logo=Java&logoColor=FFF)]() [![](https://img.shields.io/badge/Php-Dev-brightgreen.svg?logo=Php&logoColor=FFF)]() [![](https://img.shields.io/badge/HTML5-Dev-brightgreen.svg?logo=HTML5&logoColor=FFF)]() [![](https://img.shields.io/badge/CSS3-Dev-brightgreen.svg?logo=CSS3&logoColor=FFF)]()
+
+[![](https://img.shields.io/badge/Angular-Front-FF0.svg?logo=Angular&logoColor=FFF)]() [![](https://img.shields.io/badge/ReactJS-Front-FF0.svg?logo=React&logoColor=FFF)]() [![](https://img.shields.io/badge/Vue.js-Front-FF0.svg?logo=Vue.js&logoColor=FFF)]()
+
+[![](https://img.shields.io/badge/Node.js-Back-F00.svg?logo=Node.js&logoColor=FFF)]() [![](https://img.shields.io/badge/Spring-Back-F00.svg?logo=Spring&logoColor=FFF)]() [![](https://img.shields.io/badge/Symfony-Back-F00.svg?logo=Symfony&logoColor=FFF)]() [![](https://img.shields.io/badge/Nginx-Back-F00.svg?logo=Nginx&logoColor=FFF)]() [![](https://img.shields.io/badge/Django-Back-F00.svg?logo=Django&logoColor=FFF)]() [![](https://img.shields.io/badge/Wordpress-Back-F00.svg?logo=Wordpress&logoColor=FFF)]()
+
+[![](https://img.shields.io/badge/Terraform-DevOps-DDD.svg?logo=Terraform&logoColor=FFF)]() [![](https://img.shields.io/badge/Docker-DevOps-DDD.svg?logo=Docker&logoColor=FFF)]() [![](https://img.shields.io/badge/Helm-DevOps-DDD.svg?logo=Helm&logoColor=FFF)]() [![](https://img.shields.io/badge/Kubernetes-DevOps-DDD.svg?logo=Kubernetes&logoColor=FFF)]() [![](https://img.shields.io/badge/Prometheus-DevOps-DDD.svg?logo=Prometheus&logoColor=FFF)]() [![](https://img.shields.io/badge/Grafana-DevOps-DDD.svg?logo=Grafana&logoColor=FFF)]() [![](https://img.shields.io/badge/Jenkins-DevOps-DDD.svg?logo=Jenkins&logoColor=FFF)]() [![](https://img.shields.io/badge/SonarQube-DevOps-DDD.svg?logo=SonarQube&logoColor=FFF)]() [![](https://img.shields.io/badge/Junit-DevOps-DDD.svg?logo=Junit5&logoColor=FFF)]()
+
+[![](https://img.shields.io/badge/MariaDB-DataBase-00F.svg?logo=MariaDB&logoColor=FFF)]() [![](https://img.shields.io/badge/MySql-DataBase-00F.svg?logo=Mysql&logoColor=FFF)]() [![](https://img.shields.io/badge/MongoDB-DataBase-00F.svg?logo=MongoDB&logoColor=FFF)]() [![](https://img.shields.io/badge/PostgreSQL-DataBase-00F.svg?logo=Postgresql&logoColor=FFF)]()
+
+
+
+
