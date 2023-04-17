@@ -1,12 +1,12 @@
-## Blooo - #BlockchainHactivist
+## Blooo - #TrustHactivist
 
-🙋‍ A short introduction - Building The Future Decentralized Paradigm #BlockchainHacktivist
+🙋‍ A short introduction - Building The Future Decentralized & Trusted Paradigm #TrustHacktivist
 
-🌈 Our contribution - Working on transforming the world to something much more decentralized 🚀
+🌈 Our contribution - Working on transforming the world to something much more decentralized & secure 🚀
 
 👩‍💻 Useful resources - Everything you want to know about us: 👉[🌍](https://blooo.io)👈
 
-🧙 Remember, you can do mighty things with the power of **decentralization**
+🧙 Remember, you can do mighty things with the power of **trust**
 
 🍿 Fun facts - with Concorde airplane you could time travel to the past and see the same sunrise twice in a day :)
 
