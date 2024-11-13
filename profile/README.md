@@ -1,18 +1,52 @@
 ## Blooo - #TrustHactivist
 
-🙋‍ A short introduction - Building The Future Decentralized & Trusted Paradigm #TrustHacktivist
+🙋‍ A short introduction - Building a More Secure & Decentralized Digital Future #TrustHactivist
 
-🌈 Our contribution - Working on transforming the world to something much more decentralized & secure 🚀
+🌈 Our contribution - Transforming cybersecurity through innovative blockchain solutions and zero-trust architectures 🛡️
 
-👩‍💻 Useful resources - Everything you want to know about us: 👉[🌍](https://blooo.io)👈
+👩‍💻 Useful resources - Discover our security-first approach: 👉[🔒](https://blooo.io)👈
 
-🧙 Remember, you can do mighty things with the power of **trust**
+🧙 Remember, security isn't just a feature - it's a mindset
 
-🍿 Fun facts - with Concorde airplane you could time travel to the past and see the same sunrise twice in a day :)
+🍿 Fun facts - The first computer worm was created in 1988 and affected 10% of all internet-connected computers within 24 hours!
 
 ---
 
-[![](https://img.shields.io/badge/Solidity-Dev-brightgreen.svg?logo=Solidity&logoColor=FFF)](https://github.com/blooo-io) [![](https://img.shields.io/badge/Go-Dev-brightgreen.svg?logo=Go&logoColor=FFF)](https://github.com/blooo-io) [![](https://img.shields.io/badge/C-Dev-brightgreen.svg?logo=C&logoColor=FFF)](https://github.com/blooo-io) [![](https://img.shields.io/badge/Javascript-Dev-brightgreen.svg?logo=JavaScript&logoColor=FFF)](https://github.com/blooo-io) [![](https://img.shields.io/badge/Typescript-Dev-brightgreen.svg?logo=TypeScript&logoColor=FFF)](https://github.com/blooo-io) [![](https://img.shields.io/badge/Python-Dev-brightgreen.svg?logo=Python&logoColor=FFF)](https://github.com/blooo-io) [![](https://img.shields.io/badge/Java-Dev-brightgreen.svg?logo=Java&logoColor=FFF)](https://github.com/blooo-io) [![](https://img.shields.io/badge/Php-Dev-brightgreen.svg?logo=Php&logoColor=FFF)](https://github.com/blooo-io) [![](https://img.shields.io/badge/HTML5-Dev-brightgreen.svg?logo=HTML5&logoColor=FFF)](https://github.com/blooo-io) [![](https://img.shields.io/badge/CSS3-Dev-brightgreen.svg?logo=CSS3&logoColor=FFF)](https://github.com/blooo-io) [![](https://img.shields.io/badge/Angular-Front-FF0.svg?logo=Angular&logoColor=FFF)](https://github.com/blooo-io) [![](https://img.shields.io/badge/ReactJS-Front-FF0.svg?logo=React&logoColor=FFF)](https://github.com/blooo-io) [![](https://img.shields.io/badge/Vue.js-Front-FF0.svg?logo=Vue.js&logoColor=FFF)](https://github.com/blooo-io) [![](https://img.shields.io/badge/Node.js-Back-F00.svg?logo=Node.js&logoColor=FFF)](https://github.com/blooo-io) [![](https://img.shields.io/badge/Spring-Back-F00.svg?logo=Spring&logoColor=FFF)](https://github.com/blooo-io) [![](https://img.shields.io/badge/Symfony-Back-F00.svg?logo=Symfony&logoColor=FFF)](https://github.com/blooo-io) [![](https://img.shields.io/badge/Nginx-Back-F00.svg?logo=Nginx&logoColor=FFF)](https://github.com/blooo-io) [![](https://img.shields.io/badge/Django-Back-F00.svg?logo=Django&logoColor=FFF)](https://github.com/blooo-io) [![](https://img.shields.io/badge/Wordpress-Back-F00.svg?logo=Wordpress&logoColor=FFF)](https://github.com/blooo-io) [![](https://img.shields.io/badge/Terraform-DevOps-DDD.svg?logo=Terraform&logoColor=FFF)](https://github.com/blooo-io) [![](https://img.shields.io/badge/Docker-DevOps-DDD.svg?logo=Docker&logoColor=FFF)](https://github.com/blooo-io) [![](https://img.shields.io/badge/Helm-DevOps-DDD.svg?logo=Helm&logoColor=FFF)](https://github.com/blooo-io) [![](https://img.shields.io/badge/Kubernetes-DevOps-DDD.svg?logo=Kubernetes&logoColor=FFF)](https://github.com/blooo-io) [![](https://img.shields.io/badge/Prometheus-DevOps-DDD.svg?logo=Prometheus&logoColor=FFF)](https://github.com/blooo-io) [![](https://img.shields.io/badge/Grafana-DevOps-DDD.svg?logo=Grafana&logoColor=FFF)](https://github.com/blooo-io) [![](https://img.shields.io/badge/Jenkins-DevOps-DDD.svg?logo=Jenkins&logoColor=FFF)](https://github.com/blooo-io) [![](https://img.shields.io/badge/SonarQube-DevOps-DDD.svg?logo=SonarQube&logoColor=FFF)](https://github.com/blooo-io) [![](https://img.shields.io/badge/Junit-DevOps-DDD.svg?logo=Junit5&logoColor=FFF)](https://github.com/blooo-io) [![](https://img.shields.io/badge/MariaDB-DataBase-00F.svg?logo=MariaDB&logoColor=FFF)](https://github.com/blooo-io) [![](https://img.shields.io/badge/MySql-DataBase-00F.svg?logo=Mysql&logoColor=FFF)](https://github.com/blooo-io) [![](https://img.shields.io/badge/MongoDB-DataBase-00F.svg?logo=MongoDB&logoColor=FFF)](https://github.com/blooo-io) [![](https://img.shields.io/badge/PostgreSQL-DataBase-00F.svg?logo=Postgresql&logoColor=FFF)](https://github.com/blooo-io)
+<!-- Core Security -->
+[![](https://img.shields.io/badge/Blockchain-Security-brightgreen.svg?logo=Bitcoin&logoColor=FFF)](https://github.com/blooo-io)
+[![](https://img.shields.io/badge/Smart_Contract-Audit-brightgreen.svg?logo=Ethereum&logoColor=FFF)](https://github.com/blooo-io)
+[![](https://img.shields.io/badge/Zero_Trust-Architecture-brightgreen.svg?logo=OpenZeppelin&logoColor=FFF)](https://github.com/blooo-io)
+[![](https://img.shields.io/badge/Identity_&_Access-Management-brightgreen.svg?logo=Auth0&logoColor=FFF)](https://github.com/blooo-io)
+
+<!-- Security Testing -->
+[![](https://img.shields.io/badge/Penetration-Testing-FF0.svg?logo=HackerOne&logoColor=FFF)](https://github.com/blooo-io)
+[![](https://img.shields.io/badge/Vulnerability-Assessment-FF0.svg?logo=Snyk&logoColor=FFF)](https://github.com/blooo-io)
+[![](https://img.shields.io/badge/Red_Team-Operations-FF0.svg?logo=HackerOne&logoColor=FFF)](https://github.com/blooo-io)
+[![](https://img.shields.io/badge/Security-Research-FF0.svg?logo=OpenBugBounty&logoColor=FFF)](https://github.com/blooo-io)
+
+<!-- Security Operations -->
+[![](https://img.shields.io/badge/Threat-Detection-F00.svg?logo=ShieldIO&logoColor=FFF)](https://github.com/blooo-io)
+[![](https://img.shields.io/badge/Security-Monitoring-F00.svg?logo=OpenSSL&logoColor=FFF)](https://github.com/blooo-io)
+[![](https://img.shields.io/badge/Incident-Response-F00.svg?logo=Snyk&logoColor=FFF)](https://github.com/blooo-io)
+[![](https://img.shields.io/badge/SIEM-Solutions-F00.svg?logo=Splunk&logoColor=FFF)](https://github.com/blooo-io)
+
+<!-- Infrastructure Security -->
+[![](https://img.shields.io/badge/Cloud-Security-DDD.svg?logo=AmazonAWS&logoColor=FFF)](https://github.com/blooo-io)
+[![](https://img.shields.io/badge/Network-Security-DDD.svg?logo=cisco&logoColor=FFF)](https://github.com/blooo-io)
+[![](https://img.shields.io/badge/Container-Security-DDD.svg?logo=Docker&logoColor=FFF)](https://github.com/blooo-io)
+[![](https://img.shields.io/badge/Kubernetes-Security-DDD.svg?logo=Kubernetes&logoColor=FFF)](https://github.com/blooo-io)
+
+<!-- Application Security -->
+[![](https://img.shields.io/badge/DevSecOps-Pipeline-00F.svg?logo=GitLab&logoColor=FFF)](https://github.com/blooo-io)
+[![](https://img.shields.io/badge/SAST_&_DAST-Testing-00F.svg?logo=SonarQube&logoColor=FFF)](https://github.com/blooo-io)
+[![](https://img.shields.io/badge/API-Security-00F.svg?logo=Postman&logoColor=FFF)](https://github.com/blooo-io)
+[![](https://img.shields.io/badge/Web_App-Security-00F.svg?logo=OWASP&logoColor=FFF)](https://github.com/blooo-io)
+
+<!-- Compliance & Standards -->
+[![](https://img.shields.io/badge/Compliance-Automation-purple.svg?logo=Auth0&logoColor=FFF)](https://github.com/blooo-io)
+[![](https://img.shields.io/badge/ISO_27001-Certified-purple.svg?logo=ISO&logoColor=FFF)](https://github.com/blooo-io)
+[![](https://img.shields.io/badge/GDPR-Compliant-purple.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAANgAAADYBsVpjYQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAADSSURBVCiRrdKxSgNBFIXhb9dgLIJYWVhZCGm0tBEM2mwRYiP4CvZ5HZ/Fh7ASBEEsBNFCrEQQREgq0cImxSx4XfYqZMOuDlzmnDP/zJ2Z+B9XcYgPjLCFIs5wEWJjFVFc4wUNtLGOA7zgDvv4xASb2YA6XrGH5wDXAtjEHYZYyxJXMQ2HmGASKnqYoTyP2MF7kG7xGDmGIeZxaBqd4Cc0LzHB8aIz1HDTNQ4wDz8X2M4Tq/jCR2QX+/gOK1VyxRoGOEU/Kk31wvvH+MQ5dnPvC3/PL77YQgA/P7HIAAAAAElFTkSuQmCC)](https://github.com/blooo-io)
+[![](https://img.shields.io/badge/SOC_2-Compliant-purple.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAANgAAADYBsVpjYQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAADSSURBVCiRrdKxSgNBFIXhb9dgLIJYWVhZCGm0tBEM2mwRYiP4CvZ5HZ/Fh7ASBEEsBNFCrEQQREgq0cImxSx4XfYqZMOuDlzmnDP/zJ2Z+B9XcYgPjLCFIs5wEWJjFVFc4wUNtLGOA7zgDvv4xASb2YA6XrGH5wDXAtjEHYZYyxJXMQ2HmGASKnqYoTyP2MF7kG7xGDmGIeZxaBqd4Cc0LzHB8aIz1HDTNQ4wDz8X2M4Tq/jCR2QX+/gOK1VyxRoGOEU/Kk31wvvH+MQ5dnPvC3/PL77YQgA/P7HIAAAAAElFTkSuQmCC)](https://github.com/blooo-io)
 
 
 
